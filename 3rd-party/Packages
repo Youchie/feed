@@ -464,22 +464,6 @@ Filename: enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk
 Size: 716752
 MD5Sum: c3069be14b82b6c97e91b45a1c7f96ed
 
-Package: enigma2-plugin-extensions-ipaudiopro
-Version: 1.3
-Description: IPAudioPro is a Plugin that allows you to listen to radio streams in the background while watching something else
-Section: base
-Priority: optional
-Maintainer: zKhadiri
-License: Proprietary
-Architecture: cortexa15hf-neon-vfpv4
-OE: enigma2-plugin-extensions-ipaudiopro
-Homepage: 
-Depends: alsa-conf, alsa-plugins, alsa-state, ffmpeg, gstreamer1.0-plugins-base-volume, gstreamer1.0-plugins-good-equalizer, enigma2, gstreamer1.0-plugins-good-mpg123, gstreamer1.0-plugins-good-ossaudio, libasound2 (>= 1.2.11), libavcodec61 (>= 7.0.1), libavformat61 (>= 7.0.1), libc6 (>= 2.40), libgcc1 (>= 14.1.0), libpython3.12-1.0 (>= 3.12.2), libstdc++6 (>= 14.1.0), python3-core, python3-cryptography
-Source: enigma2-plugin-extensions-ipaudiopro.bb
-Filename: enigma2-plugin-extensions-ipaudiopro_1.3+git124+cd654700+cd6547059e-r0_cortexa15hf-neon-vfpv4.ipk
-Size: 1071562
-MD5Sum: 816c93df3034bf37d14afe08f42e89f3
-
 Package: enigma2-plugin-extensions-ipchecker
 Version: 004
 Priority: optional
@@ -536,22 +520,6 @@ Depends: python3-json
 Filename: enigma2-plugin-extensions-iptvremote_1.0.8-py3_all.ipk
 Size: 39406
 MD5Sum: 3dba1877e3f1e2456bbdae0eef9f007b
-
-Package: enigma2-plugin-extensions-italysmart
-Version: 240621-r44
-Description: ItalySmart è un contenitore di diversi plugin, tra cui Alexa, VisioneViva, Download Manager e Setting Manager
-Section: base
-Priority: optional
-Maintainer: ItalySat
-License: GPL-2.0-or-later
-Architecture: cortexa15hf-neon-vfpv4
-OE: enigma2-plugin-extensions-italysmart
-Homepage: www.italysat.eu
-Depends: libc6 (>= 2.40), python3-aiohttp, python3-crypt, python3-datetime, python3-io, python3-json, python3-logging, python3-math, python3-netclient, python3-numbers, python3-pycryptodome, python3-sqlite3, python3-threading, python3-youtube-dl, wget
-Source: enigma2-plugin-extensions-italysmart.bb
-Filename: enigma2-plugin-extensions-italysmart_240621-r44_cortexa15hf-neon-vfpv4.ipk
-Size: 5785332
-MD5Sum: 9164de52266dfd0e1182d580706243e5
 
 Package: enigma2-plugin-extensions-levi45-addon-manager
 Version: 10.1-r19
